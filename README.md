@@ -62,10 +62,36 @@
 
 - 빅데이터 실습
     - 스타벅스 입지 분석(계속)
-    - 지난주 최종으로 만든 데이터 csv파일 다시 로드    
+    - 지난주 최종으로 만든 데이터 csv파일 다시 로드
+    - [스벅입지분석](https://github.com/HeoYongmin/Iot-bigdata-2024/blob/main/day3/dba07_starbucks_analysis.ipynb)
 
+- 빅데이터 활용방안
+    - [강사자바2024](https://github.com/HeoYongmin/bigdata-analysis-2024)
+    - [강사나머지교안](https://github.com/HeoYongmin/works-need-it-data-analysis)
+    - [멀티캠퍼스서울2021](https://github.com/ckiekim/DataAnalysis-2021-3)
+    - [위키북스_데이터분석실무](https://github.com/CityHopper/playwithdata)
+
+    - 수집방법, 데이터전처리, 분석/시각화 알맞은 방법을 쓰는지 선별
+    - 단순 빅데이터 분석방법은 깃헙에서 참조만 해도 많은 것을 찾아볼 수 있음
+
+- 빅데이터 분석가의 작업순
+    1. 수집, 저장 동시 - 크롤링, OpenAPI, DB, 엑셀 다운로드...
+    2. 데이터 전처리(핵심!) - 자동화 어려움, 분석 일정 50% 차지
+    3. 분석 -> EDA/통계기반 분석, 머신러닝, 딥러닝 활용
+    4. 시각화 - 경영진이 확인하고 비지니스, 결정에 도움을 주기 위해서
+
+- 일반적인 빅데이터 분석 예
+    - 코로나 사태로 외국인 관광객수 변경추세
+    - 인스타그램 크롤링으로 제주도 핫플레이스 시각화
+    - 스타벅스 입지 분석
+    - 다나와 크롤링으로 인기있는 무선청소기 순위 분석
+    
 
 ## 4일차
+- 머신러닝, 딥러닝
+
+
+
 
 ## 5일차
 
